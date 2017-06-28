@@ -32,10 +32,10 @@ https://posteo.de/blog/info-zur-ransomware-petrwrappetya-betroffenes-postfach-be
 https://blockchain.info/address/1Mz7153HMuxXTuR2R1t78mGSdzaAtNbBWX
 
 *********** Samples:
-https://yadi.sk/d/QT0l_AYg3KXCqc
-https://yadi.sk/d/S0-ZhPY53KWc84
-https://yadi.sk/d/Zpkm88sp3KWc8v
-https://yadi.sk/d/WemMDKVy3KXPcy
+https://github.com/netb2c/petrwrap_sample/blob/master/petrwrap_sample/027cc450ef5f8c5f653329641ec1fed9.exe.zip
+https://github.com/netb2c/petrwrap_sample/blob/master/petrwrap_sample/Ci_pBL9wTn-e_O4CKVlChw.zip
+https://github.com/netb2c/petrwrap_sample/blob/master/petrwrap_sample/petya.zip
+https://github.com/netb2c/petrwrap_sample/blob/master/petrwrap_sample/svchost.exe.zip
 Archive password: virus
 
 *********** Source code:
