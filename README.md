@@ -15,9 +15,5 @@ Kaspersky products successfully detect this ransomware as Trojan-Ransom.Win32.Pe
 Targeted attacks on organizations with the main aim of encrypting data are becoming more popular. The groups using ransomware in their targeted attacks usually try to find vulnerable servers or servers with unprotected RDP access. After penetrating an organization’s network they use special frameworks like Mimikatz to obtain the necessary credentials for installing ransomware throughout the network. To protect against such attacks, organizations need to keep their server software up to date, use secure passwords for remote access systems, install security solutions on their servers and use security solutions with behavioral detection components on their endpoints.
 
 ### virus samples:
-https://github.com/netb2c/petrwrap_sample/blob/master/petrwrap_sample/027cc450ef5f8c5f653329641ec1fed9.exe.zip
-https://github.com/netb2c/petrwrap_sample/blob/master/petrwrap_sample/Ci_pBL9wTn-e_O4CKVlChw.zip
-https://github.com/netb2c/petrwrap_sample/blob/master/petrwrap_sample/petya.zip
-https://github.com/netb2c/petrwrap_sample/blob/master/petrwrap_sample/svchost.exe.zip
 
 Unzip Password:virus
